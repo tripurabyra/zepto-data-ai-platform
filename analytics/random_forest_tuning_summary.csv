@@ -1,0 +1,2 @@
+Best Parameters,Best CV F1,OOB Score,Test Accuracy,Test Precision,Test Recall,Test F1,Test AUC
+"{'classifier__max_depth': 5, 'classifier__max_features': 'sqrt', 'classifier__n_estimators': 200}",0.7408312771917277,0.8213783403656821,0.8314606741573034,0.8653846153846154,0.6617647058823529,0.75,0.838903743315508

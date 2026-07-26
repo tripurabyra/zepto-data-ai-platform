@@ -1,0 +1,1 @@
+The residuals show evidence of heteroscedasticity because the spread of residuals changes as predicted fare increases. The relationship between predicted values and absolute residuals also shows a meaningful association.
